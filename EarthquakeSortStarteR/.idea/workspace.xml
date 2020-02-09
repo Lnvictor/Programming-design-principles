@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="78546806-5201-4268-854c-7af140a0bf37" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="ProjectId" id="1XLu7yDsiWw7d5bv59nlWaHjwDv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../EfficientSortStarterProgram" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager" selected="Application.QuakeSortInPlace">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="EarthquakeSortStarteR" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuakeSortInPlace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.QuakeSortInPlace" />
+      <module name="EarthquakeSortStarteR" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.QuakeSortInPlace" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.QuakeSortInPlace" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="78546806-5201-4268-854c-7af140a0bf37" name="Default Changelist" comment="" />
+      <created>1580837532602</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580837532602</updated>
+      <workItem from="1580837537379" duration="12556000" />
+      <workItem from="1580865773406" duration="12000" />
+      <workItem from="1580865833385" duration="61000" />
+      <workItem from="1580866241639" duration="16000" />
+      <workItem from="1580866533935" duration="94000" />
+      <workItem from="1580906182230" duration="2403000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="141" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580837601572">
+      <screen x="0" y="25" width="1366" height="743" />
+    </state>
+    <state x="141" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1366.743@0.25.1366.743" timestamp="1580837601572" />
+    <state x="305" y="140" width="735" height="525" key="FileChooserDialogImpl" timestamp="1580908654685">
+      <screen x="0" y="25" width="1366" height="743" />
+    </state>
+    <state x="305" y="140" width="735" height="525" key="FileChooserDialogImpl/0.25.1366.743@0.25.1366.743" timestamp="1580908654685" />
+    <state width="1300" height="200" key="GridCell.Tab.0.bottom" timestamp="1580865746658">
+      <screen x="0" y="25" width="1366" height="743" />
+    </state>
+    <state width="1300" height="200" key="GridCell.Tab.0.bottom/0.25.1366.743@0.25.1366.743" timestamp="1580865746658" />
+    <state width="1300" height="200" key="GridCell.Tab.0.center" timestamp="1580865746658">
+      <screen x="0" y="25" width="1366" height="743" />
+    </state>
+    <state width="1300" height="200" key="GridCell.Tab.0.center/0.25.1366.743@0.25.1366.743" timestamp="1580865746658" />
+    <state width="1300" height="200" key="GridCell.Tab.0.left" timestamp="1580865746657">
+      <screen x="0" y="25" width="1366" height="743" />
+    </state>
+    <state width="1300" height="200" key="GridCell.Tab.0.left/0.25.1366.743@0.25.1366.743" timestamp="1580865746657" />
+    <state width="1300" height="200" key="GridCell.Tab.0.right" timestamp="1580865746658">
+      <screen x="0" y="25" width="1366" height="743" />
+    </state>
+    <state width="1300" height="200" key="GridCell.Tab.0.right/0.25.1366.743@0.25.1366.743" timestamp="1580865746658" />
+    <state width="1300" height="200" key="GridCell.Tab.1.bottom" timestamp="1580865746659">
+      <screen x="0" y="25" width="1366" height="743" />
+    </state>
+    <state width="1300" height="200" key="GridCell.Tab.1.bottom/0.25.1366.743@0.25.1366.743" timestamp="1580865746659" />
+    <state width="1300" height="200" key="GridCell.Tab.1.center" timestamp="1580865746659">
+      <screen x="0" y="25" width="1366" height="743" />
+    </state>
+    <state width="1300" height="200" key="GridCell.Tab.1.center/0.25.1366.743@0.25.1366.743" timestamp="1580865746659" />
+    <state width="1300" height="200" key="GridCell.Tab.1.left" timestamp="1580865746659">
+      <screen x="0" y="25" width="1366" height="743" />
+    </state>
+    <state width="1300" height="200" key="GridCell.Tab.1.left/0.25.1366.743@0.25.1366.743" timestamp="1580865746659" />
+    <state width="1300" height="200" key="GridCell.Tab.1.right" timestamp="1580865746659">
+      <screen x="0" y="25" width="1366" height="743" />
+    </state>
+    <state width="1300" height="200" key="GridCell.Tab.1.right/0.25.1366.743@0.25.1366.743" timestamp="1580865746659" />
+    <state x="264" y="78" width="819" height="600" key="NewModule_or_Project.wizard" timestamp="1580908682552">
+      <screen x="0" y="25" width="1366" height="743" />
+    </state>
+    <state x="264" y="78" width="819" height="600" key="NewModule_or_Project.wizard/0.25.1366.743@0.25.1366.743" timestamp="1580908682552" />
+    <state x="166" y="25" width="1024" height="743" key="SettingsEditor" timestamp="1580906984756">
+      <screen x="0" y="25" width="1366" height="743" />
+    </state>
+    <state x="166" y="25" width="1024" height="743" key="SettingsEditor/0.25.1366.743@0.25.1366.743" timestamp="1580906984756" />
+    <state x="341" y="234" key="com.intellij.ide.util.TipDialog" timestamp="1580906714915">
+      <screen x="0" y="25" width="1366" height="743" />
+    </state>
+    <state x="341" y="234" key="com.intellij.ide.util.TipDialog/0.25.1366.743@0.25.1366.743" timestamp="1580906714915" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1580906990333">
+      <screen x="0" y="25" width="1366" height="743" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.25.1366.743@0.25.1366.743" timestamp="1580906990333" />
+  </component>
+</project>
